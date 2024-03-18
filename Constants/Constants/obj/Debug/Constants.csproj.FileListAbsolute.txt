@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\Constants\Constants\bin\Debug\Constants.exe.config
+D:\Naser\c_sharp\Constants\Constants\bin\Debug\Constants.exe
+D:\Naser\c_sharp\Constants\Constants\bin\Debug\Constants.pdb
+D:\Naser\c_sharp\Constants\Constants\obj\Debug\Constants.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\Constants\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\Constants\Constants\obj\Debug\Constants.exe
+D:\Naser\c_sharp\Constants\Constants\obj\Debug\Constants.pdb

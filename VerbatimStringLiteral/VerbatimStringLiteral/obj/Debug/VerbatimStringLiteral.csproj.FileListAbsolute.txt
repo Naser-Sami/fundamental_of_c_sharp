@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.exe.config
+D:\Naser\c_sharp\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.exe
+D:\Naser\c_sharp\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.pdb
+D:\Naser\c_sharp\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.exe
+D:\Naser\c_sharp\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.pdb

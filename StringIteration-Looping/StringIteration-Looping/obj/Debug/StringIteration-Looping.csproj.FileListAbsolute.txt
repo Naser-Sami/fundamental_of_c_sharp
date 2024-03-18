@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\StringIteration-Looping\StringIteration-Looping\obj\Debug\StringIteration-Looping.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\StringIteration-Looping\StringIteration-Looping\obj\Debug\StringIteration-Looping.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\StringIteration-Looping\StringIteration-Looping\bin\Debug\StringIteration-Looping.exe.config
+D:\Naser\c_sharp\StringIteration-Looping\StringIteration-Looping\bin\Debug\StringIteration-Looping.exe
+D:\Naser\c_sharp\StringIteration-Looping\StringIteration-Looping\bin\Debug\StringIteration-Looping.pdb
+D:\Naser\c_sharp\StringIteration-Looping\StringIteration-Looping\obj\Debug\StringIteration-Looping.exe
+D:\Naser\c_sharp\StringIteration-Looping\StringIteration-Looping\obj\Debug\StringIteration-Looping.pdb

@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\Modulus\Modulus\bin\Debug\Modulus.exe.config
+D:\Naser\c_sharp\Modulus\Modulus\bin\Debug\Modulus.exe
+D:\Naser\c_sharp\Modulus\Modulus\bin\Debug\Modulus.pdb
+D:\Naser\c_sharp\Modulus\Modulus\obj\Debug\Modulus.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\Modulus\Modulus\obj\Debug\Modulus.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\Modulus\Modulus\obj\Debug\Modulus.exe
+D:\Naser\c_sharp\Modulus\Modulus\obj\Debug\Modulus.pdb

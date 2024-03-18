@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\TryParseFunction\TryParseFunction\bin\Debug\TryParseFunction.exe.config
+D:\Naser\c_sharp\TryParseFunction\TryParseFunction\bin\Debug\TryParseFunction.exe
+D:\Naser\c_sharp\TryParseFunction\TryParseFunction\bin\Debug\TryParseFunction.pdb
+D:\Naser\c_sharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.exe
+D:\Naser\c_sharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.pdb

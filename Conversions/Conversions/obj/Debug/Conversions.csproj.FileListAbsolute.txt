@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\Conversions\Conversions\bin\Debug\Conversions.exe.config
+D:\Naser\c_sharp\Conversions\Conversions\bin\Debug\Conversions.exe
+D:\Naser\c_sharp\Conversions\Conversions\bin\Debug\Conversions.pdb
+D:\Naser\c_sharp\Conversions\Conversions\obj\Debug\Conversions.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\Conversions\Conversions\obj\Debug\Conversions.exe
+D:\Naser\c_sharp\Conversions\Conversions\obj\Debug\Conversions.pdb

@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\ExerciseFizzBbuzzGame\ExerciseFizzBbuzzGame\bin\Debug\ExerciseFizzBbuzzGame.exe.config
+D:\Naser\c_sharp\ExerciseFizzBbuzzGame\ExerciseFizzBbuzzGame\bin\Debug\ExerciseFizzBbuzzGame.exe
+D:\Naser\c_sharp\ExerciseFizzBbuzzGame\ExerciseFizzBbuzzGame\bin\Debug\ExerciseFizzBbuzzGame.pdb
+D:\Naser\c_sharp\ExerciseFizzBbuzzGame\ExerciseFizzBbuzzGame\obj\Debug\ExerciseFizzBbuzzGame.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\ExerciseFizzBbuzzGame\ExerciseFizzBbuzzGame\obj\Debug\ExerciseFizzBbuzzGame.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\ExerciseFizzBbuzzGame\ExerciseFizzBbuzzGame\obj\Debug\ExerciseFizzBbuzzGame.exe
+D:\Naser\c_sharp\ExerciseFizzBbuzzGame\ExerciseFizzBbuzzGame\obj\Debug\ExerciseFizzBbuzzGame.pdb

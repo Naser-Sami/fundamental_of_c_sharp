@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Naser\\c_sharp\\StringFormatting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3967D600-8459-4877-80CD-F0FEE3187D3C}|StringFormatting\\StringFormatting.csproj|d:\\naser\\c_sharp\\stringformatting\\stringformatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3967D600-8459-4877-80CD-F0FEE3187D3C}|StringFormatting\\StringFormatting.csproj|solutionrelative:stringformatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Naser\\c_sharp\\StringFormatting\\StringFormatting\\Program.cs",
+              "RelativeDocumentMoniker": "StringFormatting\\Program.cs",
+              "ToolTip": "D:\\Naser\\c_sharp\\StringFormatting\\StringFormatting\\Program.cs",
+              "RelativeToolTip": "StringFormatting\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:38:40.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

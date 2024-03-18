@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringIteration-Looping", "StringIteration-Looping\StringIteration-Looping.csproj", "{FA6AE223-8B60-4F87-BA2F-76080C6F21DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6AE223-8B60-4F87-BA2F-76080C6F21DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6AE223-8B60-4F87-BA2F-76080C6F21DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6AE223-8B60-4F87-BA2F-76080C6F21DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6AE223-8B60-4F87-BA2F-76080C6F21DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4550102E-90C6-4314-B956-4140BDC33C93}
+	EndGlobalSection
+EndGlobal

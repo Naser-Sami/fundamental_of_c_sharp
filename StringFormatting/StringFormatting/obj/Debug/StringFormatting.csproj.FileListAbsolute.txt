@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+D:\Naser\c_sharp\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+D:\Naser\c_sharp\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+D:\Naser\c_sharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+D:\Naser\c_sharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb

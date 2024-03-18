@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\ExerciseTimesTable\ExerciseTimesTable\bin\Debug\ExerciseTimesTable.exe.config
+D:\Naser\c_sharp\ExerciseTimesTable\ExerciseTimesTable\bin\Debug\ExerciseTimesTable.exe
+D:\Naser\c_sharp\ExerciseTimesTable\ExerciseTimesTable\bin\Debug\ExerciseTimesTable.pdb
+D:\Naser\c_sharp\ExerciseTimesTable\ExerciseTimesTable\obj\Debug\ExerciseTimesTable.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\ExerciseTimesTable\ExerciseTimesTable\obj\Debug\ExerciseTimesTable.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\ExerciseTimesTable\ExerciseTimesTable\obj\Debug\ExerciseTimesTable.exe
+D:\Naser\c_sharp\ExerciseTimesTable\ExerciseTimesTable\obj\Debug\ExerciseTimesTable.pdb

@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\StringEqualsFunction\StringEqualsFunction\bin\Debug\StringEqualsFunction.exe.config
+D:\Naser\c_sharp\StringEqualsFunction\StringEqualsFunction\bin\Debug\StringEqualsFunction.exe
+D:\Naser\c_sharp\StringEqualsFunction\StringEqualsFunction\bin\Debug\StringEqualsFunction.pdb
+D:\Naser\c_sharp\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.exe
+D:\Naser\c_sharp\StringEqualsFunction\StringEqualsFunction\obj\Debug\StringEqualsFunction.pdb

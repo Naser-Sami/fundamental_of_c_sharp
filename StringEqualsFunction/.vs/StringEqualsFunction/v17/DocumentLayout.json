@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Naser\\c_sharp\\StringEqualsFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E805CB0B-8B69-4005-B1D3-74C8AC666400}|StringEqualsFunction\\StringEqualsFunction.csproj|d:\\naser\\c_sharp\\stringequalsfunction\\stringequalsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E805CB0B-8B69-4005-B1D3-74C8AC666400}|StringEqualsFunction\\StringEqualsFunction.csproj|solutionrelative:stringequalsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Naser\\c_sharp\\StringEqualsFunction\\StringEqualsFunction\\Program.cs",
+              "RelativeDocumentMoniker": "StringEqualsFunction\\Program.cs",
+              "ToolTip": "D:\\Naser\\c_sharp\\StringEqualsFunction\\StringEqualsFunction\\Program.cs",
+              "RelativeToolTip": "StringEqualsFunction\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:03:20.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

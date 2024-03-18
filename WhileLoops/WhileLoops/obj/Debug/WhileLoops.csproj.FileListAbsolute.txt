@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+D:\Naser\c_sharp\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+D:\Naser\c_sharp\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+D:\Naser\c_sharp\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+D:\Naser\c_sharp\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb

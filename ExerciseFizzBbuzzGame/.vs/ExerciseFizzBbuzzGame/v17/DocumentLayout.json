@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Naser\\c_sharp\\ExerciseFizzBbuzzGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24273E0D-6EC1-4487-A036-600F3E129BB0}|ExerciseFizzBbuzzGame\\ExerciseFizzBbuzzGame.csproj|d:\\naser\\c_sharp\\exercisefizzbbuzzgame\\exercisefizzbbuzzgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24273E0D-6EC1-4487-A036-600F3E129BB0}|ExerciseFizzBbuzzGame\\ExerciseFizzBbuzzGame.csproj|solutionrelative:exercisefizzbbuzzgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Naser\\c_sharp\\ExerciseFizzBbuzzGame\\ExerciseFizzBbuzzGame\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciseFizzBbuzzGame\\Program.cs",
+              "ToolTip": "D:\\Naser\\c_sharp\\ExerciseFizzBbuzzGame\\ExerciseFizzBbuzzGame\\Program.cs",
+              "RelativeToolTip": "ExerciseFizzBbuzzGame\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:59:24.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

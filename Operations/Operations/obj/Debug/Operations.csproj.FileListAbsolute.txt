@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\Operations\Operations\bin\Debug\Operations.exe.config
+D:\Naser\c_sharp\Operations\Operations\bin\Debug\Operations.exe
+D:\Naser\c_sharp\Operations\Operations\bin\Debug\Operations.pdb
+D:\Naser\c_sharp\Operations\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\Operations\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\Operations\Operations\obj\Debug\Operations.exe
+D:\Naser\c_sharp\Operations\Operations\obj\Debug\Operations.pdb

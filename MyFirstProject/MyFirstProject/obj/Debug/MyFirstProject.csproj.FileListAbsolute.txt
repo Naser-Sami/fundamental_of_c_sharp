@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+D:\Naser\c_sharp\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+D:\Naser\c_sharp\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+D:\Naser\c_sharp\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+D:\Naser\c_sharp\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

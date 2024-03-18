@@ -1,0 +1,7 @@
+D:\Naser\c_sharp\NumericFrmatting\NumericFrmatting\bin\Debug\NumericFrmatting.exe.config
+D:\Naser\c_sharp\NumericFrmatting\NumericFrmatting\bin\Debug\NumericFrmatting.exe
+D:\Naser\c_sharp\NumericFrmatting\NumericFrmatting\bin\Debug\NumericFrmatting.pdb
+D:\Naser\c_sharp\NumericFrmatting\NumericFrmatting\obj\Debug\NumericFrmatting.csproj.AssemblyReference.cache
+D:\Naser\c_sharp\NumericFrmatting\NumericFrmatting\obj\Debug\NumericFrmatting.csproj.CoreCompileInputs.cache
+D:\Naser\c_sharp\NumericFrmatting\NumericFrmatting\obj\Debug\NumericFrmatting.exe
+D:\Naser\c_sharp\NumericFrmatting\NumericFrmatting\obj\Debug\NumericFrmatting.pdb
